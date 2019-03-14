@@ -5,6 +5,7 @@ A simple xml template engine.
 
 ## Usage
 
+npm install xmlify
 ```javascript
 const xmlify = require('xmlify')
 
