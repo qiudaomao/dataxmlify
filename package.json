@@ -1,8 +1,8 @@
 {
   "name": "dataxmlify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple render xml with templates and data, vue like style",
-  "main": "lib/index.js",
+  "main": "lib/xmlify.js",
   "directories": {
     "lib": "lib",
     "test": "test"
