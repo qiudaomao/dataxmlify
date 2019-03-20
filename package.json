@@ -1,6 +1,6 @@
 {
   "name": "dataxmlify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple render xml with templates and data, vue like style",
   "main": "lib/xmlify.js",
   "directories": {
